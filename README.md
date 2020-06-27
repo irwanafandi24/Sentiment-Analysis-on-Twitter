@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Twitter
+In this sentiment project, I used "Tweet Data During Indonesia Presidential Election in 2014" and try to analyst about the data. In the end, i also try to make multiclass classification (positive, negative and neutral) based on the tweet data. The main problem in text classification is about “dimensions”.  We can calculate the dimension of the data by calculating the number of unique words (vocabulary) in the corpus (collection of documents). But the higher of exciting vocabolary will make the classification inaccurate.
